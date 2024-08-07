@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="FigurasGeometricas" />
+        <module name="Propuesto22" />
+        <module name="Propuesto23" />
+        <module name="Resuelto7" />
+        <module name="Propuesto19" />
+        <module name="Propuesto18" />
+        <module name="Resuelto10" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
